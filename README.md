@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @amnotcreative aka Gautami Sinha
-- 👀 I’m interested in graphic designing, 2D animations, web development and a lot more
+- 👀 I’m interested in graphic designing, Data Science, web development and a lot more
 - 🌱 I’m currently learning all these new stuff and trying to find my domain
 - 📫 How to reach me -> gautami.sinha90.gs@gmail.com
 
